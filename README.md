@@ -14,16 +14,28 @@ A sleek and intuitive mobile app built with **React Native**, **Expo**, **TypeSc
 
 ## 🌐 Try the App
 
-👉 [Launch the app on Expo](https://expo.dev/@your-username/project-name)  
+👉 [Project page on Expo](https://expo.dev/accounts/chbndj/projects/mobile-movie-app/updates/a9de22c7-1896-4d09-84e9-9d40f626ee01)
+
 📱 Or scan the QR code below with **Expo Go** to test it instantly:
 
-![QR Code](./assets/qr-code.png)
+![QR Code](./assets/images/qrcode.png)
 
 > 1. Download **Expo Go** on your phone
 > 2. Open it and scan the code
 > 3. Enjoy the app!
 
 ---
+
+## 💻 For Developers
+
+If you want to run the app locally:
+
+```bash
+git clone https://github.com/CHBNDJ/mobile-movie-app.git
+cd your-repo
+npm install
+npx expo start
+```
 
 ## ⚙️ Tech Stack
 
