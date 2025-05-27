@@ -6,7 +6,7 @@ A sleek and intuitive mobile app built with **React Native**, **Expo**, **TypeSc
 
 ## 🎥 App Preview
 
-![App Demo](./assets/gif/demo.gif)
+<img src="./assets/gif/demo.gif" alt="App Demo" width="400" height="900" />
 
 > This demo showcases the app's responsive user interface with modern animations and seamless navigation.
 
